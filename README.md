@@ -1,19 +1,10 @@
-# about-me
+<h1>Hi 👋, I'm Thomas Sarafian</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomassarafian)](https://github.com/anuraghazra/github-readme-stats)
+<h2>A passionate Ruby on Rails developer From <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a></h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomassarafian&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomassarafian&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomassarafian&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarafian)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarafian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<h3>My last experience was for a Start-up and it consisted in creating a marketplace from scratch in Ruby on Rails.</h3>
+<h4>🔗 Repository link : https://github.com/thomassarafian/rockdontstock</h4>
+<h4>🔗 Website link : https://www.rockdontstock.com/ </h4>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarafian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
