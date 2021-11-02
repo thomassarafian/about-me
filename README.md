@@ -6,7 +6,9 @@
 <h4>🔗 Repository link : https://github.com/thomassarafian/rockdontstock</h4>
 <h4>🔗 Website link : https://www.rockdontstock.com/ </h4>
 
-
+<p>During the Wagon I also did a project with 3 other people called Pomplamousse. It's a web app that allows you to unlock a beer dispenser connected to a virtual wallet.</p>
+<p>🔗 Repository link : https://github.com/frantisekrokusek/pomplamousse </p>
+<h4>🔗 Website link : https://pomplamousse.herokuapp.com/ </h4>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarafian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
