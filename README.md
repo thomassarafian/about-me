@@ -12,7 +12,7 @@
 <h4>🔗 Website link : https://pomplamousse.herokuapp.com/ </h4>
 
 <hr>
-<p>Currently i am learning <strong>React JS</strong> and <strong>Redux</strong></p>
+<p>Currently i am learning <strong>Ember JS</strong> and <strong>Hotwire</strong></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarafian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
