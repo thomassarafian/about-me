@@ -1,18 +1,34 @@
 <h1>Hi 👋, I'm Thomas Sarafian</h1>
 
-<h2>A passionate Ruby on Rails developer From <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a></h2>
-
-<h3>My last experience was for a Start-up and it consisted in creating a marketplace from scratch in Ruby on Rails.</h3>
-<h4>🔗 Repository link : https://github.com/thomassarafian/rockdontstock</h4>
-<h4>🔗 Website link : https://www.rockdontstock.com/ </h4>
-
+<h3>🧑‍💻 I am a Ruby on Rails Full-Stack Developer<br>📚 Tech guy with a business mindset from <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a><br>🚀 Open to new opportunities as a freelancer</h3>
 <hr>
-<p>During the Wagon I also did a project with 3 other people called Pomplamousse. It's a web app that allows you to unlock a beer dispenser connected to a virtual wallet.</p>
-<p>🔗 Repository link : https://github.com/frantisekrokusek/pomplamousse </p>
-<h4>🔗 Website link : https://pomplamousse.herokuapp.com/ </h4>
 
-<hr>
-<p>Currently i am learning <strong>Ember JS</strong> and <strong>Hotwire</strong></p>
+<h3> My tech exeriences </h3>
+<h5>🏦 QONTO</h5>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomassarafian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<ul>
+<li>Qonto is the first European corporate finance solution. </li>
+<li>As a full-time developer, I was responsible for creating new features, improving old ones, fixing bugs and helping create new projects to attract and convert more visitors.</li>
+<li>I'm currently working as a Full Stack Engineer at <a href="https://qonto.com/en">Qonto</a>. I develop my hard skills on <strong>Rails 7, Rspec, Hotwire, Stimulus JS, HTML5, CSS3, Heroku.</strong></li>
+</ul>
 
+<h5>👟 ROCK DON'T STOCK</h5>
+<ul>
+<li>Rock Don't Stock is a marketplace that connects buyers and sellers of LEGAL sneakers.</li>
+<li>As a freelancer, i built, managed and scaled a web project from A to Z. </li>
+<li>I develop my hard skills on <strong>Rails, JavaScript, HTML5, CSS3, Heroku, PostgreSQL, Connect API</strong> (Stripe Connect, Mailjet, SendinBlue, Cloudinary).</li>
+</ul>
+
+<h5>👟 42</h5>
+<ul>
+<li>During the Wagon I also did a project with 3 other people called Pomplamousse. It's a web app that allows you to unlock a beer dispenser connected to a virtual wallet.</li>
+<li>🔗 Repository link : https://github.com/frantisekrokusek/pomplamousse </li>
+<li>🔗 Website link : https://pomplamousse.herokuapp.com/ </li>
+</ul>
+
+<h5>👟 LE WAGON</h5>
+<ul>
+<li>During the Wagon I also did a project with 3 other people called Pomplamousse. It's a web app that allows you to unlock a beer dispenser connected to a virtual wallet.</li>
+<li>🔗 Repository link : https://github.com/frantisekrokusek/pomplamousse </li>
+<li>🔗 Website link : https://pomplamousse.herokuapp.com/ </li>
+</ul>
