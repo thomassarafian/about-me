@@ -25,7 +25,7 @@
 <li>Hard Skills acquired : <strong>C language, Docker, Kubernetes, Assembly language</strong></li>
 </ul>
 
-<h5>👟 LE WAGON</h5>
+<h5>📚 LE WAGON</h5>
 <ul>
 <li>The Wagon is the world leader in intensive tech training.  The Wagon has trained over 15,000 students from all walks of life, including many entrepreneurs who have created 200 startups and raised $8,000M.</li>
 <li> Hard skills acquired : <strong>HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku et Ruby on Rails.</strong></li>
