@@ -19,15 +19,16 @@
 <li>I develop my hard skills on <strong>Rails, JavaScript, HTML5, CSS3, Heroku, PostgreSQL, Connect API</strong> (Stripe Connect, Mailjet, SendinBlue, Cloudinary).</li>
 </ul>
 
-<h5>👟 42</h5>
+<h5>🏆 School 42</h5>
 <ul>
-<li>During the Wagon I also did a project with 3 other people called Pomplamousse. It's a web app that allows you to unlock a beer dispenser connected to a virtual wallet.</li>
-<li>🔗 Repository link : https://github.com/frantisekrokusek/pomplamousse </li>
-<li>🔗 Website link : https://pomplamousse.herokuapp.com/ </li>
+<li>42: the best that computer science education has to offer. Innovative, different and open, the training emphasizes projects and group work rather than theoretical teaching.</li>
+<li>Hard Skills acquired : <strong>C language, Docker, Kubernetes, Assembly language</strong></li>
 </ul>
 
 <h5>👟 LE WAGON</h5>
 <ul>
+<li>The Wagon is the world leader in intensive tech training.  The Wagon has trained over 15,000 students from all walks of life, including many entrepreneurs who have created 200 startups and raised $8,000M.</li>
+<li> Hard skills acquired : <strong>HTML, CSS, Bootstrap, JavaScript ES2015, SQL, git, GitHub, Heroku et Ruby on Rails.</strong></li>
 <li>During the Wagon I also did a project with 3 other people called Pomplamousse. It's a web app that allows you to unlock a beer dispenser connected to a virtual wallet.</li>
 <li>🔗 Repository link : https://github.com/frantisekrokusek/pomplamousse </li>
 <li>🔗 Website link : https://pomplamousse.herokuapp.com/ </li>
