@@ -1,9 +1,23 @@
 <h1>Hi 👋, I'm Thomas Sarafian</h1>
 
-<h3>🧑‍💻 I am a Ruby on Rails Full-Stack Developer<br>📚 Tech guy with a business mindset from <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a><br>🚀 Open to new opportunities as a freelancer</h3>
+<h3>🧑‍💻 I am a Freelance Ruby on Rails Full-Stack Developer<br>📚 Tech guy with a business mindset from <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a><br>🚀 Open to new opportunities as a freelancer</h3>
 <hr>
 
 <h3> My tech exeriences </h3>
+<h5>🚀 Freelance (Current)</h5>
+
+<li>
+  Captain Cause 
+  <ul>Rebranding of 20 responsive pages according to Figma specifications</ul>
+</li>
+<li>
+  Nova Vita
+  <ul>Increase the size of the servers in proportion to the traffic with an Auto Scaling Group on AWS EC2.</ul>
+  <ul>Regular database backup with AWS Backup</ul>
+  <ul>Connect a Rails application to a wordpress blog with a reverse proxy </ul>
+</li>
+
+
 <h5>🏦 QONTO</h5>
 
 <ul>
