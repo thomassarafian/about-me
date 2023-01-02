@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Thomas Sarafian</h1>
 
-<h3>🧑‍💻 I am a Freelance Ruby on Rails Full-Stack Developer<br>📚 Tech guy with a business mindset from <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a><br>🚀 Open to new opportunities as a freelancer</h3>
+<h3>🧑‍💻 I am a Freelance Ruby on Rails Developer<br>📚 Tech guy with a business mindset from <a href="https://42.fr/">42</a> and <a href="https://www.lewagon.com/fr/web-development-course/full-time">Le Wagon</a><br>🚀 Open to new opportunities as a freelancer</h3>
 <hr>
 
 <h3> My tech exeriences </h3>
@@ -33,6 +33,14 @@
 <li>I develop my hard skills on <strong>Rails, JavaScript, HTML5, CSS3, Heroku, PostgreSQL, Connect API</strong> (Stripe Connect, Mailjet, SendinBlue, Cloudinary).</li>
 </ul>
 
+<h3> My side projects </h3>
+<h5>Active Jobs</h5>
+<ul>
+<li></li>
+<li>Hard Skills acquired : <strong>Active Jobs, IMDB API</strong></li>
+</ul>
+
+<h3> Schools </h3>
 <h5>🏆 42 SCHOOL</h5>
 <ul>
 <li>42: the best that computer science education has to offer. Innovative, different and open, the training emphasizes projects and group work rather than theoretical teaching.</li>
